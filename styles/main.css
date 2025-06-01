@@ -34,7 +34,7 @@ h2 {
     text-shadow: 0 0 10px #ffa600, 0 0 20px #ffffff40;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2.8em;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
@@ -47,11 +47,14 @@ section {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2.2em;
     border-bottom: 2px solid #ffa600;
     padding-bottom: 10px;
 }
 
+h3 {
+    font-size: 1.5em;
+}
 img {
     max-width: 100%;
     border-radius: 10px;
@@ -184,4 +187,14 @@ a {
     .highlight-section h3 {
         text-shadow: 0 0 12px #ffa600, 0 0 24px #fff20099;
         transition: text-shadow 0.3s;
+}
+body {
+    font-size: 20px;
+    /* Tamaño base más grande */
+}
+
+ul,
+li,
+p {
+    font-size: 1.15em;
 }
