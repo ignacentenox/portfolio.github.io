@@ -107,7 +107,7 @@ p,
 li,
 a {
     color: #fff;
-    /* <-- Asegura que todos los textos sean blancos */
+    /* <-- todos los textos sean blancos */
 }
 
 .social-links a {
@@ -151,7 +151,7 @@ a {
         }
     }
     
-    /* Animación de borde brillante */
+        /* Animación borde brillante */
     @keyframes border-anim {
         0% {
             box-shadow: 0 0 20px #ffa600, 0 0 40px #ffa60033;
