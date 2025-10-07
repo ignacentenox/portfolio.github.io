@@ -1,12 +1,12 @@
 # Portfolio de Ignacio “Igna” Centeno
 
-Bienvenido a mi portfolio web. Aquí encontrarás una muestra de mis proyectos, conocimientos y especialidades en desarrollo, automatización, producción audiovisual, agrotech y más.
+Bienvenido a mi portfolio web. Una pequeña muestra de mis proyectos, conocimientos y especialidades en desarrollo, automatización, producción audiovisual, agrotech y más.
 
 ## 🚀 Sobre mí
 
 Soy Ignacio Centeno, desarrollador creativo y técnico multidisciplinario. 
 Combino programación, diseño de interfaces y producción audiovisual para crear experiencias inmersivas y automatizadas. 
-Me especializo en soluciones innovadoras que conectan la tecnología con las personas, desde aplicaciones inteligentes para el agro hasta visuales generativos en vivo.
+Me especializo en soluciones innovadoras que conectan la tecnología con las personas.
 
 ## 🛠️ Conocimientos y Especialidades
 
